@@ -7,20 +7,20 @@
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/diego-sullon-chavez-5bba681a8/">
+  <a href="https://www.linkedin.com/in/diego-sullon-chavez-5bba681a8/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Diego Sullon LinkedIn Profile" height="30" width="30">
   </a>
-  <a href="https://www.instagram.com/diego_sullon/?hl=es">
+  <a href="https://www.instagram.com/diego_sullon/?hl=es" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Diego Sullon Instagram Profile" height="30" width="30">
   </a>
-  <a href="https://www.facebook.com/jdiegosullon">
+  <a href="https://www.facebook.com/jdiegosullon" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Diego Sullon Facebook Profile" height="30" width="30">
   </a>
 </p>
 
 [![DiegoSullon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoSullon&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSullon&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSullon&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -51,11 +51,11 @@
 
 ### My latest projects
 
-<a href="https://github.com/WEGFan/codestats-profile-readme">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoSullon&repo=FoxbelMusic" alt="FoxbelMusic" />
+<a href="https://github.com/DiegoSullon/FoxbelMusic" target="_blank">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoSullon&repo=FoxbelMusic&theme=dark" alt="FoxbelMusic" />
 </a>
-<a href="https://github.com/WEGFan/Geometry-Dash-Menu-Music-Randomizer">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoSullon&repo=UPN-ThreeJS" alt="UPN MODEL 3D" />
+<a href="https://github.com/DiegoSullon/UPN-ThreeJS" target="_blank">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoSullon&repo=UPN-ThreeJS&theme=dark" alt="UPN MODEL 3D" />
 </a>
 
 <h4>Skills and Tools: </h4>

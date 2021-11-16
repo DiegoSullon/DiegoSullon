@@ -18,9 +18,9 @@
   </a>
 </p>
 
-[![DiegoSullon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoSullon&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![DiegoSullon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoSullon&theme=dark)](https://github.com/DiegoSullon)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSullon&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSullon&layout=compact&theme=dark)](https://github.com/DiegoSullon)
 
 
 
